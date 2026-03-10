@@ -2,7 +2,7 @@
 // Created by ntt12 on 3/9/2026.
 //
 
-#include "Drink.h"
+#include "../include/Drink.h"
 #include <iostream>
 
 Drink::Drink(const string& n, double p) :

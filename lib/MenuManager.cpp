@@ -2,7 +2,7 @@
 // Created by ntt12 on 3/9/2026.
 //
 
-#include "MenuManager.h"
+#include "../include/MenuManager.h"
 #include <string>
 #include <iostream>
 #include <fstream>
@@ -55,6 +55,15 @@ void MenuManager::displayMenu() {
             menu[i]->display();
         }
     }
+}
+
+Item* MenuManager::findItemByName(const string& name) {
+    for (Item* item : menu) {
+        if (item->getName() == name) {
+            return item;
+        }
+    }
+    return nullptr;
 }
 void MenuManager::saveToFile() {
     ofstream file ("menu.txt");

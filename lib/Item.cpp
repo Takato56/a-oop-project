@@ -2,7 +2,7 @@
 // Created by ntt12 on 3/9/2026.
 //
 
-#include "Item.h"
+#include "../include/Item.h"
 
 Item::Item(string n, double p) :
     name(n), price(p) {}

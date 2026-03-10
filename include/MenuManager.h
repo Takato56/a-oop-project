@@ -20,6 +20,7 @@ public:
     void editItem(const string& name );
     void deleteItem(const string& name );
     string searchNameToId(const string& name);
+    Item* findItemByName(const string& name);
     void displayMenu();
     void saveToFile();
     void loadFromFile();

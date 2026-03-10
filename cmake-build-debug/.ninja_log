@@ -1,8 +1,10 @@
 # ninja log v6
 2	432	7948331516309118	CMakeFiles/a_oop_project.dir/main.cpp.obj	3cda22bfb49661b6
+3	1105	7948339809912483	CMakeFiles/a_oop_project.dir/MenuManager.cpp.obj	7e9308a0664beca1
 12	721	7948339810002514	CMakeFiles/a_oop_project.dir/Food.cpp.obj	2bdc829432041810
 8	847	7948339809967492	CMakeFiles/a_oop_project.dir/Drink.cpp.obj	da68fa798be762c3
-17	895	7948339810052533	CMakeFiles/a_oop_project.dir/Item.cpp.obj	7a33bd693d7dc8b
-23	896	7948339810116281	CMakeFiles/a_oop_project.dir/OrderCard.cpp.obj	645b8a35a8aea27b
-3	1105	7948339809912483	CMakeFiles/a_oop_project.dir/MenuManager.cpp.obj	7e9308a0664beca1
 1105	1258	7948339820928776	a_oop_project.exe	6fe954154fe1762e
+17	895	7948339810052533	CMakeFiles/a_oop_project.dir/Item.cpp.obj	7a33bd693d7dc8b
+12	533	7948376222318080	CMakeFiles/a_oop_project.dir/Order.cpp.obj	cc0a93307e52fc3f
+8	574	7948376222268227	CMakeFiles/a_oop_project.dir/OrderCard.cpp.obj	645b8a35a8aea27b
+4	392	7948378010510430	CMakeFiles/a_oop_project.dir/Test.cpp.obj	e12f657ea73b610d

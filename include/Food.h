@@ -4,7 +4,7 @@
 
 #ifndef OOP_PROJECT_FOOD_H
 #define OOP_PROJECT_FOOD_H
-#include "Item.h"
+#include "../Item.h"
 
 class Food : public Item {
 protected:
