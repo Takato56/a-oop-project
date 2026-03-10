@@ -56,61 +56,61 @@ build CMakeFiles/a_oop_project.dir/main.cpp.obj: CXX_COMPILER__a_oop_project_uns
   OBJECT_DIR = CMakeFiles\a_oop_project.dir
   OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir
 
-build CMakeFiles/a_oop_project.dir/MenuManager.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/MenuManager.cpp || cmake_object_order_depends_target_a_oop_project
+build CMakeFiles/a_oop_project.dir/lib/MenuManager.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/lib/MenuManager.cpp || cmake_object_order_depends_target_a_oop_project
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\a_oop_project.dir\MenuManager.cpp.obj.d
+  DEP_FILE = CMakeFiles\a_oop_project.dir\lib\MenuManager.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\a_oop_project.dir
-  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir\lib
 
-build CMakeFiles/a_oop_project.dir/Drink.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/Drink.cpp || cmake_object_order_depends_target_a_oop_project
+build CMakeFiles/a_oop_project.dir/lib/Drink.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/lib/Drink.cpp || cmake_object_order_depends_target_a_oop_project
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\a_oop_project.dir\Drink.cpp.obj.d
+  DEP_FILE = CMakeFiles\a_oop_project.dir\lib\Drink.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\a_oop_project.dir
-  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir\lib
 
-build CMakeFiles/a_oop_project.dir/Food.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/Food.cpp || cmake_object_order_depends_target_a_oop_project
+build CMakeFiles/a_oop_project.dir/lib/Food.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/lib/Food.cpp || cmake_object_order_depends_target_a_oop_project
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\a_oop_project.dir\Food.cpp.obj.d
+  DEP_FILE = CMakeFiles\a_oop_project.dir\lib\Food.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\a_oop_project.dir
-  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir\lib
 
-build CMakeFiles/a_oop_project.dir/Item.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/Item.cpp || cmake_object_order_depends_target_a_oop_project
+build CMakeFiles/a_oop_project.dir/lib/Item.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/lib/Item.cpp || cmake_object_order_depends_target_a_oop_project
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\a_oop_project.dir\Item.cpp.obj.d
+  DEP_FILE = CMakeFiles\a_oop_project.dir\lib\Item.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\a_oop_project.dir
-  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir\lib
 
-build CMakeFiles/a_oop_project.dir/OrderCard.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/OrderCard.cpp || cmake_object_order_depends_target_a_oop_project
+build CMakeFiles/a_oop_project.dir/lib/OrderCard.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/lib/OrderCard.cpp || cmake_object_order_depends_target_a_oop_project
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\a_oop_project.dir\OrderCard.cpp.obj.d
+  DEP_FILE = CMakeFiles\a_oop_project.dir\lib\OrderCard.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\a_oop_project.dir
-  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir\lib
 
-build CMakeFiles/a_oop_project.dir/Order.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/Order.cpp || cmake_object_order_depends_target_a_oop_project
+build CMakeFiles/a_oop_project.dir/lib/Order.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/lib/Order.cpp || cmake_object_order_depends_target_a_oop_project
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\a_oop_project.dir\Order.cpp.obj.d
+  DEP_FILE = CMakeFiles\a_oop_project.dir\lib\Order.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\a_oop_project.dir
-  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir\lib
 
-build CMakeFiles/a_oop_project.dir/SaveOrder.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/SaveOrder.cpp || cmake_object_order_depends_target_a_oop_project
+build CMakeFiles/a_oop_project.dir/lib/SaveOrder.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/lib/SaveOrder.cpp || cmake_object_order_depends_target_a_oop_project
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\a_oop_project.dir\SaveOrder.cpp.obj.d
+  DEP_FILE = CMakeFiles\a_oop_project.dir\lib\SaveOrder.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\a_oop_project.dir
-  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir\lib
 
-build CMakeFiles/a_oop_project.dir/CardManager.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/CardManager.cpp || cmake_object_order_depends_target_a_oop_project
+build CMakeFiles/a_oop_project.dir/lib/CardManager.cpp.obj: CXX_COMPILER__a_oop_project_unscanned_Debug C$:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/lib/CardManager.cpp || cmake_object_order_depends_target_a_oop_project
   CONFIG = Debug
-  DEP_FILE = CMakeFiles\a_oop_project.dir\CardManager.cpp.obj.d
+  DEP_FILE = CMakeFiles\a_oop_project.dir\lib\CardManager.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\a_oop_project.dir
-  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir
+  OBJECT_FILE_DIR = CMakeFiles\a_oop_project.dir\lib
 
 
 # =============================================================================
@@ -120,7 +120,7 @@ build CMakeFiles/a_oop_project.dir/CardManager.cpp.obj: CXX_COMPILER__a_oop_proj
 #############################################
 # Link the executable a_oop_project.exe
 
-build a_oop_project.exe: CXX_EXECUTABLE_LINKER__a_oop_project_Debug CMakeFiles/a_oop_project.dir/main.cpp.obj CMakeFiles/a_oop_project.dir/MenuManager.cpp.obj CMakeFiles/a_oop_project.dir/Drink.cpp.obj CMakeFiles/a_oop_project.dir/Food.cpp.obj CMakeFiles/a_oop_project.dir/Item.cpp.obj CMakeFiles/a_oop_project.dir/OrderCard.cpp.obj CMakeFiles/a_oop_project.dir/Order.cpp.obj CMakeFiles/a_oop_project.dir/SaveOrder.cpp.obj CMakeFiles/a_oop_project.dir/CardManager.cpp.obj
+build a_oop_project.exe: CXX_EXECUTABLE_LINKER__a_oop_project_Debug CMakeFiles/a_oop_project.dir/main.cpp.obj CMakeFiles/a_oop_project.dir/lib/MenuManager.cpp.obj CMakeFiles/a_oop_project.dir/lib/Drink.cpp.obj CMakeFiles/a_oop_project.dir/lib/Food.cpp.obj CMakeFiles/a_oop_project.dir/lib/Item.cpp.obj CMakeFiles/a_oop_project.dir/lib/OrderCard.cpp.obj CMakeFiles/a_oop_project.dir/lib/Order.cpp.obj CMakeFiles/a_oop_project.dir/lib/SaveOrder.cpp.obj CMakeFiles/a_oop_project.dir/lib/CardManager.cpp.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

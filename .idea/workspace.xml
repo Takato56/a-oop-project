@@ -3,6 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
 }</component>
@@ -23,34 +26,23 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="118bcfa8-9791-49d8-ab21-8d0894f37898" name="Changes" comment="Updated workspace.xml">
-      <change afterPath="$PROJECT_DIR$/include/CardManager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/Order.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/SaveOrder.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/CardManager.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Order.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/OrderCard.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/SaveOrder.cpp" afterDir="false" />
+    <list default="true" id="118bcfa8-9791-49d8-ab21-8d0894f37898" name="Changes" comment="Reconstruct folder and new code">
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drink.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Drink.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drink.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Drink.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Food.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Food.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Food.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Food.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Item.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Item.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Item.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Item.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MenuManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/MenuManager.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MenuManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/MenuManager.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderCard.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrderCard.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/OrderCard.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-9e62495019890e0699c9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-03-10T08-19-30-0140.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-a_oop_project-Debug-5f60c933fe1e75f48d30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-96f6f8a14cec6485a9cd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ffd6315de65bcca5d8e8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-03-10T09-49-46-0220.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-a_oop_project-Debug-55cc5a4d4e14fb59e6c4.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/Food.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Food.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/OrderCard.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/OrderCard.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SaveOrder.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SaveOrder.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,6 +105,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -134,9 +127,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="a_oop_project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="a_oop_project" TARGET_NAME="a_oop_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="a_oop_project" RUN_TARGET_NAME="a_oop_project">
@@ -153,7 +146,8 @@
       <option name="presentableId" value="Default" />
       <updated>1773129854455</updated>
       <workItem from="1773129855562" duration="204000" />
-      <workItem from="1773130295696" duration="9061000" />
+      <workItem from="1773130295696" duration="9835000" />
+      <workItem from="1773140276274" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -179,7 +173,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773131750039</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Reconstruct folder and new code">
+      <option name="closed" value="true" />
+      <created>1773139500780</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773139500780</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Reconstruct folder and new code">
+      <option name="closed" value="true" />
+      <created>1773139564694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773139564694</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +214,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="Updated workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated workspace.xml" />
+    <MESSAGE value="Reconstruct folder and new code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reconstruct folder and new code" />
   </component>
 </project>

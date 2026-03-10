@@ -68,7 +68,7 @@ int main() {
                 else if (choice == 10) {
                     cout << "Exiting..." << endl;
                 }
-                }
+            }
         }
         else if (choice == 2) {
             int subChoice2 = 0;

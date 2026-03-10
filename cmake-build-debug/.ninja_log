@@ -1,10 +1,22 @@
 # ninja log v6
-2	432	7948331516309118	CMakeFiles/a_oop_project.dir/main.cpp.obj	3cda22bfb49661b6
+4	740	7948432697881842	CMakeFiles/a_oop_project.dir/main.cpp.obj	3cda22bfb49661b6
+27	822	7948430329606561	CMakeFiles/a_oop_project.dir/lib/Order.cpp.obj	f402d6abfcaabe8f
 3	1105	7948339809912483	CMakeFiles/a_oop_project.dir/MenuManager.cpp.obj	7e9308a0664beca1
+15	454	7948432698007138	CMakeFiles/a_oop_project.dir/lib/Food.cpp.obj	48b340d027da5af5
 12	721	7948339810002514	CMakeFiles/a_oop_project.dir/Food.cpp.obj	2bdc829432041810
+18	576	7948431884611256	CMakeFiles/a_oop_project.dir/lib/CardManager.cpp.obj	d91dfbb8cc2a8d3d
 8	847	7948339809967492	CMakeFiles/a_oop_project.dir/Drink.cpp.obj	da68fa798be762c3
-1105	1258	7948339820928776	a_oop_project.exe	6fe954154fe1762e
+441	572	7948434528706324	a_oop_project.exe	e07975d96fb32c82
 17	895	7948339810052533	CMakeFiles/a_oop_project.dir/Item.cpp.obj	7a33bd693d7dc8b
 12	533	7948376222318080	CMakeFiles/a_oop_project.dir/Order.cpp.obj	cc0a93307e52fc3f
 8	574	7948376222268227	CMakeFiles/a_oop_project.dir/OrderCard.cpp.obj	645b8a35a8aea27b
 4	392	7948378010510430	CMakeFiles/a_oop_project.dir/Test.cpp.obj	e12f657ea73b610d
+19	831	7948430329530010	CMakeFiles/a_oop_project.dir/lib/Item.cpp.obj	5f180bc572698216
+2	112	7948434835922181	build.ninja	eff288454c63abbf
+2	112	7948434835826551	C:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/cmake-build-debug/cmake_install.cmake	eff288454c63abbf
+11	833	7948430329446478	CMakeFiles/a_oop_project.dir/lib/Drink.cpp.obj	51213478cf4c0920
+3	441	7948434524322061	CMakeFiles/a_oop_project.dir/lib/OrderCard.cpp.obj	e3cc953855add78a
+18	476	7948432528922271	CMakeFiles/a_oop_project.dir/lib/SaveOrder.cpp.obj	bc696b9b43c7278a
+11	727	7948432697966944	CMakeFiles/a_oop_project.dir/lib/MenuManager.cpp.obj	6d94b77613efc242
+3	457	7948437677265064	CMakeFiles/a_oop_project.dir/lib/OrderCard.cpp.obj	e3cc953855add78a
+458	614	7948437681807752	a_oop_project.exe	e07975d96fb32c82

@@ -23,9 +23,12 @@ void OrderCard::assignOrder(string name, double p, int q) {
 
 vector<Order> OrderCard::releaseCard() {
     vector<Order> temp = orderList;
-    orderList.clear();
-    isActive = false;
+    clearData();
     return temp;
+}
+
+vector <Order>& OrderCard::getOrderList() {
+    return orderList;
 }
 
 double OrderCard::getTotalPrice() const {
