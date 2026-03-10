@@ -1,0 +1,3 @@
+C:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/cmake-build-debug/CMakeFiles/a_oop_project.dir
+C:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ntt12/OneDrive/Desktop/School/Code/a-oop-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
