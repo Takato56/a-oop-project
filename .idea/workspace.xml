@@ -23,25 +23,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="118bcfa8-9791-49d8-ab21-8d0894f37898" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drink.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drink.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Food.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Food.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Item.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Item.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MenuManager.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MenuManager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderCard.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderCard.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/a-oop-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/a-oop-project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    <list default="true" id="118bcfa8-9791-49d8-ab21-8d0894f37898" name="Changes" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,8 +124,25 @@
       <option name="presentableId" value="Default" />
       <updated>1773129854455</updated>
       <workItem from="1773129855562" duration="204000" />
-      <workItem from="1773130295696" duration="471000" />
+      <workItem from="1773130295696" duration="1388000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1773130851837</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773130851837</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1773130874801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773130874801</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,5 +152,20 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
