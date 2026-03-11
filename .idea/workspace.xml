@@ -26,24 +26,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="118bcfa8-9791-49d8-ab21-8d0894f37898" name="Changes" comment="Reconstruct folder and new code">
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="118bcfa8-9791-49d8-ab21-8d0894f37898" name="Changes" comment="Fix bug when reconstruct folder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-96f6f8a14cec6485a9cd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ffd6315de65bcca5d8e8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-03-10T09-49-46-0220.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-a_oop_project-Debug-55cc5a4d4e14fb59e6c4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/Food.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Food.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/OrderCard.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/OrderCard.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/SaveOrder.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SaveOrder.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +131,7 @@
       <updated>1773129854455</updated>
       <workItem from="1773129855562" duration="204000" />
       <workItem from="1773130295696" duration="9835000" />
-      <workItem from="1773140276274" duration="309000" />
+      <workItem from="1773140276274" duration="2460000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -189,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773139564694</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fix bug when reconstruct folder">
+      <option name="closed" value="true" />
+      <created>1773140626903</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773140626904</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +207,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Updated workspace.xml" />
     <MESSAGE value="Reconstruct folder and new code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reconstruct folder and new code" />
+    <MESSAGE value="Fix bug when reconstruct folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix bug when reconstruct folder" />
   </component>
 </project>
